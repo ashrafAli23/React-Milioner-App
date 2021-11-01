@@ -212,7 +212,7 @@ export const data = [
                 correct: false,
             },
             {
-                text: 'ابن خالتك اللي امك بتقول احسن منك',
+                text: 'ابن خالتك',
                 correct: false,
             },
             {
