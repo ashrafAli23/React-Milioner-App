@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Milioner-App/static/css/main.d2b98658.chunk.css",
-    "main.js": "/React-Milioner-App/static/js/main.a41bf40c.chunk.js",
-    "main.js.map": "/React-Milioner-App/static/js/main.a41bf40c.chunk.js.map",
+    "main.css": "/React-Milioner-App/static/css/main.63f7e378.chunk.css",
+    "main.js": "/React-Milioner-App/static/js/main.11348b1a.chunk.js",
+    "main.js.map": "/React-Milioner-App/static/js/main.11348b1a.chunk.js.map",
     "runtime-main.js": "/React-Milioner-App/static/js/runtime-main.457dd44f.js",
     "runtime-main.js.map": "/React-Milioner-App/static/js/runtime-main.457dd44f.js.map",
     "static/js/2.a3a4c7cd.chunk.js": "/React-Milioner-App/static/js/2.a3a4c7cd.chunk.js",
     "static/js/2.a3a4c7cd.chunk.js.map": "/React-Milioner-App/static/js/2.a3a4c7cd.chunk.js.map",
     "index.html": "/React-Milioner-App/index.html",
-    "static/css/main.d2b98658.chunk.css.map": "/React-Milioner-App/static/css/main.d2b98658.chunk.css.map",
+    "static/css/main.63f7e378.chunk.css.map": "/React-Milioner-App/static/css/main.63f7e378.chunk.css.map",
     "static/js/2.a3a4c7cd.chunk.js.LICENSE.txt": "/React-Milioner-App/static/js/2.a3a4c7cd.chunk.js.LICENSE.txt",
     "static/media/App.css": "/React-Milioner-App/static/media/bg.c137ccd7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.457dd44f.js",
     "static/js/2.a3a4c7cd.chunk.js",
-    "static/css/main.d2b98658.chunk.css",
-    "static/js/main.a41bf40c.chunk.js"
+    "static/css/main.63f7e378.chunk.css",
+    "static/js/main.11348b1a.chunk.js"
   ]
 }
